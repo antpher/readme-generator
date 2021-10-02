@@ -15,33 +15,33 @@ function generateMarkdown(data) {
   return `# ${data.title}
 
   ## GitHub
-  [${data.dithub}](https://github.com/${data.github}/)
+  [${data.github}](https://github.com/${data.github}/)
 
   ## Description
   ${data.description}
 
   ## Table of Contents
-  *[Installation](#installation)
-  *[Usage](#usage)
-  *[Contributing](#contibution)
-  *[Tests](#test)
-  *[Licences](#licence)
+  [Installation](#installation)
+  [Usage](#usage)
+  [Contributing](#contibution)
+  [Tests](#test)
+  [Licences](#licence)
 
-  ##Installation
+  Installation
   ${data.installation}
 
-  ##Usage
+  Usage
   ${data.usage}
 
-  ##Contributing
+  Contributing
   ${data.contribution}
   ${data.email}
 
-  ##Tests
-  ${data.tests}
+  Tests
+  ${data.test}
 
-  ##Licences
-  ${data.licence}
+  Licences
+  ${data.license}
 
 `;
 }
