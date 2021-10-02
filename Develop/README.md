@@ -1,31 +1,46 @@
-# README generator
+# README Generator
 
   ## GitHub
   [antpher](https://github.com/antpher/)
+  
+  Contact me at: antpher@mgail.com
 
   ## Description
-  Generate a readme file using node
+  Generate a readme using node
 
   ## Table of Contents
   [Installation](#installation)
+
   [Usage](#usage)
+
   [Contributing](#contibution)
+
   [Tests](#test)
+
   [Licences](#licence)
 
+
   Installation
+
   none
+
 
   Usage
+
   none
+
 
   Contributing
+
   none
-  antpher@gmail.com
+
 
   Tests
+
   none
 
+
   Licences
-  BASH
+
+  MIT
 

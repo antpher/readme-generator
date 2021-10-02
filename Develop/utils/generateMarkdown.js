@@ -16,31 +16,46 @@ function generateMarkdown(data) {
 
   ## GitHub
   [${data.github}](https://github.com/${data.github}/)
+  
+  Contact me at: ${data.email}
 
   ## Description
   ${data.description}
 
   ## Table of Contents
   [Installation](#installation)
+
   [Usage](#usage)
+
   [Contributing](#contibution)
+
   [Tests](#test)
+
   [Licences](#licence)
 
+
   Installation
+
   ${data.installation}
 
+
   Usage
+
   ${data.usage}
 
+
   Contributing
+
   ${data.contribution}
-  ${data.email}
+
 
   Tests
+
   ${data.test}
 
+
   Licences
+
   ${data.license}
 
 `;
