@@ -3,10 +3,10 @@
   ## GitHub
   [antpher](https://github.com/antpher/)
   
-  Contact me at: antpher@mgail.com
+  Contact me at: antpher@gmail.com
 
   ## Description
-  Generate a readme using node
+  Generate a README using node
 
   ## Table of Contents
   [Installation](#installation)
